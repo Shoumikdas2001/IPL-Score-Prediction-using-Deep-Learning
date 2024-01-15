@@ -5,7 +5,7 @@ Hi, in this repository, I have worked on IPL Score Prediction, a Deep Learning b
 IPL Score Prediction: It is a Deep Learning project which uses advanced neural network models to analyze historical cricket match data and player performance, providing accurate forecasts for Indian Premier League (IPL) match scores with high precision.
 <br>
 <br>
-The project dataset is provided in the repository.
+The project dataset can be downloaded from this link: https://drive.google.com/file/d/1DEuP39f9DG9NC5ZrFXGhs7vp58x2NP29/view?usp=sharing
 <br><br>
 The project is entirely compiled and run in Google Colab.
 <br><br>
